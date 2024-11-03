@@ -1,0 +1,4 @@
+CREATE TABLE test(
+	id INTEGER,
+	genre NVARCHAR(20)
+);
